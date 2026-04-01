@@ -2,19 +2,19 @@
 
 Calculadora web desarrollada con HTML, CSS y JavaScript.
 
-## 📌 Funcionalidades
+## Funcionalidades
 - Suma
 - Resta
 - Multiplicación
 - División
 - Validación de división por cero
 
-## 🛠 Tecnologías
+## Tecnologías
 - HTML5
 - CSS3
 - JavaScript
 
-## 🎯 Objetivo
+## Objetivo
 Aplicar lógica de programación en JavaScript para realizar operaciones matemáticas básicas en una interfaz web.
 
 ---
